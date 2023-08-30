@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 100px;
 }
 
 .App-logo {
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.fc-event {
+  background-color: pink;
+  color: #ffffff;
+}
+
+.fc-daygrid-day {
+  border: 10px solid #e0e0e0;
 }
